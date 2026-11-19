@@ -186,4 +186,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Brawlhalla · Updated 2026-11-18 · Shared under the MIT License*
+*Brawlhalla · Updated 2026-11-19 · Shared under the MIT License*
